@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Preference</string>
     <string name="text_button_main">Preference Practices</string>
+    <string name="text_button_sp_update">update</string>
 </resources>
